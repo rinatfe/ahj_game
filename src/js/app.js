@@ -8,7 +8,7 @@ const field = [
 
 const elem = boardEl.children;
 const face = document.createElement('img');
-face.src = './src/img/goblin.png';
+face.src = './images/goblin.png';
 
 function renderBoard(board) {
   const fields = [];
